@@ -1,13 +1,33 @@
 # DevLog
 
-## 02/07/2026
+## Sprint 1
 
-Hoje defini a visão do produto.
+### Objetivo
 
-Aprendi:
-- O que é um MVP.
-- Como definir o problema do usuário.
-- O que é um fluxo principal.
-- A diferença entre ideia e produto.
+Transformar uma ideia em um projeto de software.
 
-Dificuldades:
+---
+
+### O que foi desenvolvido
+
+- Definição do nome Traça.
+- Definição do problema.
+- Público-alvo.
+- MVP.
+- Primeiras entidades.
+
+---
+
+### O que aprendi
+
+Nesta etapa aprendi que desenvolver software vai muito além de escrever código.
+
+Antes da implementação é necessário compreender o problema, definir um MVP e modelar as entidades que representam o domínio da aplicação.
+
+---
+
+### Próximos passos
+
+- Refinar as entidades.
+- Definir regras de negócio.
+- Modelar o banco de dados.
